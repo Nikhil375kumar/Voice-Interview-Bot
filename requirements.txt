@@ -1,0 +1,6 @@
+sounddevice
+numpy
+soundfile
+requests
+pyttsx3
+streamlit
